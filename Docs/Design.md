@@ -19,3 +19,31 @@ Local
 
 *Data to sync - browser dependant*
 storage.sync - Chrome only? - Allows for data to be saved and synced across browsers
+
+
+#### Chrome Packaged App Samples
+[I/O 2013](https://github.com/GoogleChrome/chrome-app-samples.git)
+
+[I/O 2014](https://github.com/googlesamples/io2014-codelabs)
+[Codelab Tutorials](http://io2014codelabs.appspot.com/static/codelabs/chrome-apps/#1)
+
+
+#### Chrome App Structure/Scaffold
+App/Main folder/
+  manifest.json  <!-- app metadata -->
+  background.js  <!-- background script -->
+  index.html     <!-- initial page -->
+  main.js        <!-- script loaded by initial page -->
+  styles.css     <!-- styles loaded by initial page -->
+  assets/        <!-- sample app icons -->
+  
+  ### Dependancies
+  
+  #### Polymer
+  [http://www.polymer-project.org/](http://www.polymer-project.org/)
+  
+  [First App Tut](http://www.polymer-project.org/docs/start/tutorial/step-1.html)
+  [Code](https://github.com/Polymer/polymer-tutorial/archive/master.zip)]
+  
+  
+  
