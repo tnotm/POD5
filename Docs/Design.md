@@ -37,13 +37,24 @@ App/Main folder/
   styles.css     <!-- styles loaded by initial page -->
   assets/        <!-- sample app icons -->
   
-  ### Dependancies
+### Dependancies
+
+#### jQuery
+
+
+[JQuery JSON](http://api.jquery.com/jQuery.parseXML/)
+[JQuery XML/RSS](http://stackoverflow.com/questions/8237923/parsing-xml-rss-from-url-using-java-script)
+
+#### Polymer
+
+  Polymer is currently not working with Chrome Apps because of CSP.
   
-  #### Polymer
-  [http://www.polymer-project.org/](http://www.polymer-project.org/)
+  *Not using polymer except for web prototyping.*
   
-  [First App Tut](http://www.polymer-project.org/docs/start/tutorial/step-1.html)
-  [Code](https://github.com/Polymer/polymer-tutorial/archive/master.zip)]
+[http://www.polymer-project.org/](http://www.polymer-project.org/)
+  
+[First App Tut](http://www.polymer-project.org/docs/start/tutorial/step-1.html)
+[Code](https://github.com/Polymer/polymer-tutorial/archive/master.zip)
   
   
   
