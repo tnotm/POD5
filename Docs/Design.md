@@ -11,8 +11,7 @@ _Rough draft images to follow_
 
 ### Notes
 
-#### Files stored
-Local
+#### Files stored Local
 *Env Loaded var file*
 
 
