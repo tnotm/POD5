@@ -38,6 +38,15 @@ App/Main folder/
   
 ### Dependancies
 
+### [Angular](https://angularjs.org/)
+Chrome App [sample](https://developer.chrome.com/apps/angular_framework)
+[2](https://developers.google.com/live/shows/5725640523251712)
+
+Material Design Angular App [sample](http://material.angularjs.org/)
+
+Github for [Material Design](http://github.com/angular/material/)
+
+
 #### jQuery
 
 
